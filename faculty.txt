@@ -1,0 +1,47 @@
+Faculty information of various programs is provided in the below websites
+
+Artificial Intelligence:
+Pablo Roldan	https://www.yu.edu/faculty/pages/roldan-pablo
+Marian Gidea	https://www.yu.edu/faculty/pages/gidea-marian
+Peter Nandori	https://www.yu.edu/faculty/pages/nandori-peter
+Youshan Zhang	https://youshanzhang.github.io/
+
+Biotechnology Management and Entrepreneurship:	
+Rana Khan	https://www.yu.edu/faculty/pages/khan-rana
+Robert Frdiman	https://www.yu.edu/faculty/pages/friedman-robert
+J.D Brian Malkin	https://www.yu.edu/faculty/pages/malkin-brian
+	
+Mathematics:	
+Edward Belbruno	https://www.yu.edu/faculty/pages/belbruno-edward
+Wenxiong Chen	https://www.yu.edu/faculty/pages/chen-wenxiong
+Michael Dalezman	https://www.yu.edu/faculty/pages/dalezman-michael
+Avi Gilon	https://www.yu.edu/faculty/pages/giloni-avi
+Antonella Marini	https://www.yu.edu/faculty/pages/marini-antonella
+	
+Occupational Therapy:	
+Mindy Garfinkel     https://www.yu.edu/faculty/pages/garfinkel-mindy
+Amiya Waldman-Levi	https://www.yu.edu/faculty/pages/waldman-levi-amiya
+Zesarae Bodie	  https://www.yu.edu/faculty/pages/bodie-zesarae
+Alexandra Wagner  https://www.yu.edu/faculty/pages/wagner-alexandra
+	
+Physical Assistant Studies:	
+Sharon Verity    https://www.yu.edu/faculty/pages/verity-sharon
+Fayrose Abodeshisha	https://www.yu.edu/faculty/pages/abodeshisha-fayrose
+Dwayne Williams	https://www.yu.edu/faculty/pages/williams-dwayne
+	
+Physics:	
+Fredy Zypman	https://www.yu.edu/faculty/pages/zypman-fredy
+Neer Asherie	https://www.yu.edu/faculty/pages/asherie-neer
+Sergey Buldyrev	https://www.yu.edu/faculty/pages/buldyrev-sergey
+Gabriel Cwilich	https://www.yu.edu/faculty/pages/cwilich-gabriel
+Ran Drori	https://www.yu.edu/faculty/pages/drori-ran
+Mark Edelman	https://www.yu.edu/faculty/pages/edelman-mark
+Lea Ferreira dos Santos	https://www.yu.edu/faculty/pages/santos-lea
+Emil Prodan	https://www.yu.edu/faculty/pages/prodan-emil
+	
+Speech-Language Pathology:	
+Marissa Barrera	   https://www.yu.edu/faculty/pages/barrera-marissa
+Andrew Christler	https://www.yu.edu/faculty/pages/christler-andrew
+Troy Clifford Dargin	https://www.yu.edu/faculty/pages/dargin-troy
+Michaela Medved	https://www.yu.edu/faculty/pages/medved-michaela
+Elisabeth Mlawski	https://www.yu.edu/faculty/pages/mlawski-elisabeth
